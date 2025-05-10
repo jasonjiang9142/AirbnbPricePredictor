@@ -11,7 +11,7 @@ First, make sure you have Python installed. For this project we used, Python 3.9
 
 1. Clone the repository.
    ``` bash
-   git clone git@github.com:winsondong/506-final-project.git
+   git@github.com:jasonjiang9142/AirbnbPricePredictor.git
    ```
 2. Navigate into the project folder
    ``` bash
