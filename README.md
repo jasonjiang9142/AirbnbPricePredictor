@@ -3,9 +3,6 @@
 
 ## Project Proposal, Description, and Goals:
 
-### Project Proposal
-- **Title:** Predicting Airbnb Prices in NYC
-
 ### Project Description
 This project aims to predict Airbnb listing prices in New York City based on various features such as:
 
