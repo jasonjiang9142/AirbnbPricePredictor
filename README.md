@@ -1,5 +1,31 @@
 # Airbnb Price Prediction
 
+
+## Project Proposal, Description, and Goals:
+
+### Project Proposal
+- **Title:** Predicting Airbnb Prices in NYC
+
+### Project Description
+This project aims to predict Airbnb listing prices in New York City based on various features such as:
+
+- Location (borough, neighborhood, zip code)
+- Number of bedrooms
+- Number of bathrooms
+- Floor number
+- Type of property
+- Other relevant attributes
+
+By analyzing a dataset of Airbnb listings, we seek to:
+
+- Identify key factors influencing price variations.
+- Develop a model capable of making accurate price predictions.
+
+### Project Goals
+- Develop a machine learning model capable of accurately predicting the price of an Airbnb listing given specific features.
+- Identify the most significant features that influence Airbnb pricing in NYC.
+- Provide insights into pricing strategies for hosts and renters based on location and property characteristics.
+
 ## How to Build and Run the Code
 
 This project uses a Makefile to install dependencies, run the model, and generate visualizations.
@@ -94,33 +120,6 @@ Watch the YouTube video by clicking on the image below or through this link: htt
 - Slides are available here: https://docs.google.com/presentation/d/19pi1JXoRr79x2JrkvQs2HIOteJBz0OEifqQLZt1Y-Ck/edit?usp=sharing
 
 [![Watch the demo](https://img.youtube.com/vi/i0HKWSJIwBM/maxresdefault.jpg)](https://youtu.be/i0HKWSJIwBM)
-
-
-
-## Project Proposal, Description, and Goals:
-
-### Project Proposal
-- **Title:** Predicting Airbnb Prices in NYC
-
-### Project Description
-This project aims to predict Airbnb listing prices in New York City based on various features such as:
-
-- Location (borough, neighborhood, zip code)
-- Number of bedrooms
-- Number of bathrooms
-- Floor number
-- Type of property
-- Other relevant attributes
-
-By analyzing a dataset of Airbnb listings, we seek to:
-
-- Identify key factors influencing price variations.
-- Develop a model capable of making accurate price predictions.
-
-### Project Goals
-- Develop a machine learning model capable of accurately predicting the price of an Airbnb listing given specific features.
-- Identify the most significant features that influence Airbnb pricing in NYC.
-- Provide insights into pricing strategies for hosts and renters based on location and property characteristics.
 
 
 ## Data Collection:
@@ -325,4 +324,9 @@ https://youtu.be/i0HKWSJIwBM
    git commit -m "Add feature"
    ```
 5. Push and create a Pull Request
+
+## Acknowledgments
+This project was completed as part of a project for **CS506: Data Science Tools and Applications** at **Boston University**.
+
+
 
